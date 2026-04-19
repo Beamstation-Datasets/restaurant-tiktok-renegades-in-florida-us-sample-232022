@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "--Social Platform Gap-- \n\nHigh IG followers (>10k) but near-zero activity on TikTok presence. Perfect for social media and content agencies.",
   "config_name": "Restaurant TikTok Renegades in Florida, US",
-  "export_job_id": "fce44d12-8e23-4171-83ac-fa897f8f7c27",
+  "export_job_id": "84a1c608-d1a8-48f4-a5b7-2aab5d3a4efd",
   "github_org": "Beamstation-Datasets",
   "id_short": 232022,
   "location_name": "Florida",
   "location_type": "state",
   "repo_name": "restaurant-tiktok-renegades-in-florida-us-sample-232022",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/232022/beamstation_232022_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_pct": 9.79,
+  "sample_pct": 9.9,
   "sample_records": 41,
-  "sample_sha256": "53e1647297e5514f8d78cacefe9ea5f2345f8a3ec5a073e2e60cd3716a5de1fd",
-  "sample_size_bytes": 178612,
-  "total_records": 419,
-  "updated_at": "2026-04-08T04:56:44.012666+00:00"
+  "sample_sha256": "e6f8fd15c53da77d63f37e494568a2620ed4d8c0489f1333d8692d490c8c88da",
+  "sample_size_bytes": 181645,
+  "total_records": 414,
+  "updated_at": "2026-04-15T09:21:56.893804+00:00"
 }
