@@ -1,12 +1,12 @@
 {
-  "export_job_id": "299cf341-e36f-4b1c-97ad-00a2c3210b5e",
+  "export_job_id": "0041c5d5-b8d6-4fde-b2e0-2688f8cc59cd",
   "id_short": 232022,
-  "published_at": "2026-04-22T19:25:05Z",
+  "published_at": "2026-04-30T07:09:32Z",
   "repo_name": "restaurant-tiktok-renegades-in-florida-us-sample-232022",
   "sample_asset_name": "beamstation_232022_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/232022/beamstation_232022_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 24,
-  "sample_sha256": "60510d24033e0fe3d22ad1587b4ea14e27af925b0af6e243620d92764326184f",
-  "sample_size_bytes": 112655,
-  "total_records": 249
+  "sample_records": 43,
+  "sample_sha256": "a77b66c37bb665213445203bd6a79351a708910a9fae4af55d66243c00e24fa7",
+  "sample_size_bytes": 185781,
+  "total_records": 437
 }
